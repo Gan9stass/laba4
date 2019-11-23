@@ -7,7 +7,9 @@ using namespace std;
 void main(void) 
 { 
 	setlocale(LC_ALL, "UKR");
-	cout << "1. Мак Дмитро Юрійович \n"; 
+	cout << "1. Мак Дмитро Юрійович \n";
+	cout << "2. 12.12.1998 \n";
+	
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
