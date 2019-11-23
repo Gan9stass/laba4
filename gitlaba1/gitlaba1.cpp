@@ -1,11 +1,13 @@
 // gitlaba1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-#include <iostream>
-using namespace std;
-int main()
-{
-  cout << "Hello World!\n";
+#include "iostream" 
+using namespace std; 
+
+void main(void) 
+{ 
+	setlocale(LC_ALL, "UKR");
+	cout << "1. Мак Дмитро Юрійович \n"; 
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
