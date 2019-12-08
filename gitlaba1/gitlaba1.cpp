@@ -14,6 +14,7 @@ void main(void)
 	cout << "5. Провчився 8 класів \n";
 	cout << "6. Переїхав навчатись до Києва \n";
 	cout << "8. Продовжив навчатись у 47 школі \n";
+	cout << "9. Закінчив загальну середню освіту \n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
